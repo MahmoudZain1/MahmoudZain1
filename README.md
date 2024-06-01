@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Back-end Developer**
 - 🌱 I’m currently learning  **spring boot**
 - 👯 I’m looking to collaborate on **open-source projects related to back-end development using Spring Boot**
-- 💬 Ask me about **Java, Spring Boot, or back-end development**
+- 💬 Ask me about **Java**
 - 📫 How to reach me: **zainmahmoud719@gmail.com**
 - 😄 Pronouns: **he / him ** 
 - ⚡ Fun fact: **I'm a back-end developer by day, arm wrestler by night**
