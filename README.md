@@ -2,9 +2,8 @@
   
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Mahmoud Zain
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2500&pause=800&color=6DB33F&center=true&vCenter=true&random=false&width=650&height=80&lines=Backend+Developer;Java+%26+Spring+Boot+Maestro;API;Database+Performance;Clean+Code;" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1a4d2e&height=220&section=header&text=Java%20%7C%20Spring%20Boot%20%7C%20APIs&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&" width="100%" />
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=25&logoHeight=25)](https://linkedin.com/in/mahmoudzain1/)
 [![Email](https://img.shields.io/badge/Email-zainmahmoud719%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25&logoHeight=25)](mailto:zainmahmoud719@gmail.com)
