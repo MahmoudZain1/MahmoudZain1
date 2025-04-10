@@ -77,15 +77,9 @@
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://calendly.com/mahmoudzain/30min">
-    <img src="https://img.shields.io/badge/Schedule-Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule" />
-  </a>
+ 
 </div>
 
 <br>
 
-<div align="center">  
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=MahmoudZain1&labelColor=%236DB33F&countColor=%23263759&style=for-the-badge)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1a4d2e&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
-</div>
+
