@@ -1,85 +1,87 @@
 <div align="center">
-  
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Mahmoud Zain
 
+# Mahmoud Zain
 
+**Java Backend Engineer**
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=25&logoHeight=25)](https://linkedin.com/in/mahmoudzain1/)
-[![Email](https://img.shields.io/badge/Email-zainmahmoud719%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25&logoHeight=25)](mailto:zainmahmoud719@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/MahmoudZain1?style=for-the-badge&logo=github&color=6DB33F&logoColor=white&logoWidth=25&logoHeight=25)](https://github.com/MahmoudZain1)
+Building backend services with Java, Spring Boot, microservices, and AI integration.
 
 </div>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17-555555?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-555555?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Security-555555?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/PostgreSQL-555555?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/RabbitMQ-555555?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-<table align="center">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>💫 About Me</h2>
-      <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">
-      <p>
-        Backend developer with a passion for creating scalable Java applications with Spring Boot. 
-      </p>
-      <ul>
-        <li>🔭 Building backend using Java & Spring technologies</li>
-        <li>🌱 Continuously exploring Spring Security and Spring Core</li>
-        <li>👯 Open for collaboration on innovative Java-based projects</li>
-        <li>💬 Let's discuss Java, Spring Boot, REST APIs, or system design</li>
-        <li>⚡ Fun fact: I'm a backend developer by day, arm wrestler by night</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <h2>🔥 Tech Stack</h2>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,hibernate,docker,git,linux,php&perline=3&theme=light" alt="Skills" />
-      </div>
-      <br>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudZain1&layout=donut-vertical&theme=algolia&hide_border=true&bg_color=0d1117&title_color=6DB33F&text_color=ffffff" alt="Most Used Languages" width="100%">
-      </div>
-    </td>
-  </tr>
-</table>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudZain1&theme=github-compact&bg_color=0d1117&color=6DB33F&line=6DB33F&point=FFFFFF&area=true&hide_border=true&radius=12" width="95%" alt="Activity Graph">
-</div>
+## About
 
-<br>
+Java Backend Engineer focused on building backend systems using Java, Spring Boot, REST APIs, microservices, and database technologies, with an interest in AI integration.
 
+🎓 **B.Sc. in Information Technology — Software Engineering**  
+**October University of Technology (OUT)**  
+GPA: **3.5 / 4.0**
 
+---
 
+## Experience
 
-<br>
+### Java Backend Intern — ZagSystems
 
-<h2 align="center">📊 GitHub Metrics</h2>
+**Jul 2025 – Dec 2025 · Hybrid**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahmoudZain1&theme=algolia&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=4&row=2" width="100%" alt="GitHub Trophies" />
-</div>
+- Developed **3 backend microservices** — Order, Cart, and File — using Java 17, Spring Boot 3, and Spring Cloud.
+- Implemented **event-driven communication using ActiveMQ** for business events.
+- Designed RESTful APIs and wrote automated tests using **JUnit and Mockito**.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahmoudZain1&theme=algolia&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=6DB33F&icon_color=6DB33F" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudZain1&theme=algolia&hide_border=true&background=0d1117&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" alt="GitHub Streak Stats" />
-</div>
+---
 
-<div align="center">
-  <h2>📫 Let's Connect</h2>
-  
-  <p>I'm always interested in new opportunities and collaborations</p>
-  
-  <a href="https://linkedin.com/in/mahmoudzain1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
+## Tech Stack
+
+- **Languages:** Java, SQL
+- **Backend:** Spring Boot, Spring Core, Spring MVC, Spring Security, Spring Data JPA, Hibernate, Spring Cloud
+- **APIs & Security:** REST APIs, JWT, Swagger/OpenAPI
+- **Databases:** PostgreSQL, MySQL, Redis
+- **Architecture & Messaging:** Microservices, Event-Driven Architecture, RabbitMQ, ActiveMQ
+- **Testing & Tools:** JUnit, Mockito, Docker, Maven, Git, Linux
+- **AI Integration:** Spring AI, LangChain4j, RAG
+
+---
+
+## Featured Projects
+
+### [Cimaro](https://github.com/MahmoudZain1/Cimaro_backend)
+
+A tourism management platform designed to help travel agencies manage their operations and daily workflows.
+
+### [Complaint AI System](https://github.com/MahmoudZain1/complaint-ai-system)
+
+An AI-powered complaint management system built with Spring Boot, Spring AI, RabbitMQ, PostgreSQL, and RAG, featuring approval workflows and notifications.
+
+[**More Projects →**](https://github.com/MahmoudZain1?tab=repositories)
+
+---
+
+## Contact
+
+<p align="center">
   <a href="mailto:zainmahmoud719@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
- 
-</div>
+  <a href="https://www.linkedin.com/in/mahmoudzain1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-555555?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MahmoudZain1">
+    <img src="https://img.shields.io/badge/GitHub-Profile-555555?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<br>
-
-
+<p align="center">
+  📍 6th of October City, Egypt
+</p>
+```
